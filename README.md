@@ -7,7 +7,7 @@
 <img src="https://komarev.com/ghpvc/?username=erxk&color=grey">
 </p>
     <p align="center">
-  <img src="https://discord.c99.nl/widget/theme-2/398737241645776897.png" />
+  <img src="https://discord.c99.nl/widget/theme-2/350336124360851466.png" />
 </p>
 <p align="center">
 Currently learning C#
@@ -21,6 +21,6 @@ Currently learning C#
 
 <details>
   <summary>Stats</summary>
-  <img src="https://github-readme-stats.vercel.app/api?username=erxk&show_icons=true&count_private=true&hide_title=true">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erxk">
+  <img src="https://github-readme-stats.vercel.app/api?username=coazyy&show_icons=true&count_private=true&hide_title=true">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coazyy">
 </details>
