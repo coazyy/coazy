@@ -4,13 +4,13 @@
 <p align="center">
     ervk
 <p align="center">  
-<img src="https://komarev.com/ghpvc/?username=erxk&color=grey">
+<img src="https://komarev.com/ghpvc/?username=coazyy&color=grey">
 </p>
     <p align="center">
   <img src="https://discord.c99.nl/widget/theme-2/350336124360851466.png" />
 </p>
 <p align="center">
-Currently learning C#
+Currently learning C# and C++
 <p align="center">
     
 ### Languages and Tools:
